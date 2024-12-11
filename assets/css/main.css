@@ -2862,7 +2862,7 @@
 
 		.wrapper.style1 {
 			background-color: #EEE;
-			color: #777;
+			color: #fff; /* override for GLB */
 		}
 
 			.wrapper.style1 input, .wrapper.style1 select, .wrapper.style1 textarea {
@@ -2994,7 +2994,7 @@
 				}
 
 			.wrapper.style1 table th {
-				color: #555;
+				color: #fff; /* override for GLB */
 			}
 
 			.wrapper.style1 table thead {
